@@ -1,0 +1,2 @@
+module getter.Setter {
+}
